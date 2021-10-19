@@ -7,6 +7,7 @@ As the name suggests in this project is an application of Object Detection Algor
 ## Results
 - Dataset Description
 This flowchart shows various preprocessing & augmentation steps that have been applied to the dataset
+
    <img src="https://github.com/Vibhugupta10616/Chess-peice-Object-Detection/blob/main/imgs/Picture1.png" width="550" height="350">
 
 - Faster R-CNN loss metrics
