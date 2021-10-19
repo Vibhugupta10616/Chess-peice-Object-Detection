@@ -1,2 +1,8 @@
 # Chess Piece Detection
-In this project I have detected various chess peices present on the Chess Board and made a comparison of the same using 3 different Object Detection Algorithms i.e YOLO v4, SSD, Faster R-CNN 
+As the name suggests this project is an application of Object Detection Algorithms where I have detected 12 different chess peices on the chess board using 3 different algorithms
+- Yolo
+- SSD
+- Faster R-CNN
+
+## Results
+
