@@ -10,7 +10,7 @@ This flowchart shows various preprocessing & augmentation steps that have been a
 ![alt text](https://github.com/Vibhugupta10616/Chess-peice-Object-Detection/blob/main/imgs/Picture1.png)
 
 - Faster R-CNN loss metrics
-![alt text](https://github.com/Vibhugupta10616/Chess-peice-Object-Detection/blob/main/imgs/Picture2.png)
+<img src="https://github.com/Vibhugupta10616/Chess-peice-Object-Detection/blob/main/imgs/Picture2.png" width="400" height="250">
 
 - SSD loss metrics
 ![alt text](https://github.com/Vibhugupta10616/Chess-peice-Object-Detection/blob/main/imgs/Picture3.png)
